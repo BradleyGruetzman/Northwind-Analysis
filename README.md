@@ -29,7 +29,7 @@ The dataset consists of two tables:
 ## Dashboards
 
 ### 1. Northwind Sales Overview
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](images/sales_overview.PNG)
 Provides a high-level view of overall business performance from 1996 to 1998.
 
 **KPIs:** Total Revenue ($1.35M) · Total Orders (830) · Average Order Value ($1.63K)
@@ -42,7 +42,7 @@ Provides a high-level view of overall business performance from 1996 to 1998.
 ---
 
 ### 2. Northwind Customer Analysis
-![Customer Analysis](images/customer_analysis.png)
+![Customer Analysis](images/customer_analysis.PNG)
 Examines customer value, order behavior, and revenue concentration across the customer base.
 
 **KPIs:** Total Customers (89) · Revenue per Customer ($15.22K) · Avg Orders per Customer (9.33) · Top 10 Customer Revenue Share (45.50%) · Avg Revenue per Order ($1.63K)
@@ -55,7 +55,7 @@ Examines customer value, order behavior, and revenue concentration across the cu
 ---
 
 ### 3. Northwind Product & Employee Performance
-![Product & Employee Performance](images/product_employee_performance.png)
+![Product & Employee Performance](images/product_employee_performance.PNG)
 Tracks employee output, fulfillment reliability, and product-level revenue and volume.
 
 **KPIs:** Number of Employees (9) · Number of Products (77) · Late Order Percentage (4.50%) · Total Units Sold (51.32K)
