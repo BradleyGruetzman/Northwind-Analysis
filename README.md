@@ -43,7 +43,7 @@ Provides a high-level view of overall business performance from 1996 to 1998.
 ### 2. Northwind Customer Analysis
 Examines customer value, order behavior, and revenue concentration across the customer base.
 
-**KPIs:** Total Customers (89) · Revenue per Customer ($15.22K) · Avg Orders per Customer (9.33) · Top 10 Customer Revenue Share (45.50%) · Avg Revenue per Order ($628.52)
+**KPIs:** Total Customers (89) · Revenue per Customer ($15.22K) · Avg Orders per Customer (9.33) · Top 10 Customer Revenue Share (45.50%) · Avg Revenue per Order ($1.63K)
 
 **Key Insights:**
 - 75% of customers fall into the Low Value segment (< $20K), contributing a significant portion of revenue through volume
